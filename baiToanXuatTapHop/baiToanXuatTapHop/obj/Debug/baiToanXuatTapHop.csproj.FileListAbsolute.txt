@@ -1,0 +1,8 @@
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\obj\Debug\baiToanXuatTapHop.csproj.AssemblyReference.cache
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\obj\Debug\baiToanXuatTapHop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\obj\Debug\baiToanXuatTapHop.csproj.CoreCompileInputs.cache
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\bin\Debug\baiToanXuatTapHop.exe.config
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\bin\Debug\baiToanXuatTapHop.exe
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\bin\Debug\baiToanXuatTapHop.pdb
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\obj\Debug\baiToanXuatTapHop.exe
+C:\Users\Thang\Desktop\bt-TRR\baiToanXuatTapHop\baiToanXuatTapHop\obj\Debug\baiToanXuatTapHop.pdb
