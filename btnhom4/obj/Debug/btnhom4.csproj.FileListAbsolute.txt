@@ -1,0 +1,8 @@
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\bin\Debug\btnhom4.exe.config
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\bin\Debug\btnhom4.exe
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\bin\Debug\btnhom4.pdb
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\obj\Debug\btnhom4.csproj.AssemblyReference.cache
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\obj\Debug\btnhom4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\obj\Debug\btnhom4.csproj.CoreCompileInputs.cache
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\obj\Debug\btnhom4.exe
+C:\Users\Thang\Desktop\bt-TRR\btnhom4\btnhom4\obj\Debug\btnhom4.pdb
